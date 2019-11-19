@@ -34,3 +34,15 @@
 
   * <a href="https://cse.ninja/courses/flask/?fbclid=IwAR1tu7KERscctqWFRDK9TwP1VDLu3o7UAGnH7eurV3zv0-8SKpxB2T_X8zs">Flask ফ্রেমওয়ার্কে হাতেখড়ি</a>
   * <a href="https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762">Beginning your Web Development Journey? Start Here</a>
+  
+  
+<h3>Android</h3>
+ 
+  <h4>Android Custom Developments</h4>
+ 
+  * <a href="https://www.gizmochina.com/">Gizmochina</a>
+  * <a href = "https://www.gizmochina.com/2019/08/01/bootloader-unlock-redmi-note-7-pro/">Unlock Bootloader of Xiaomi Redmi Note 7 Pro</a>
+  * <a href = "https://forum.xda-developers.com/">XDA</a>
+  * <a href = "https://www.getdroidtips.com/hurupdater-tool/">HURUPDATER-tool</a>
+  * <a href = "https://www.getdroidtips.com/full-guide-install-stock-firmware-huawei-smartphone/">How to Install Stock Firmware on Huawei</a>
+  * <a href = ""></a>
