@@ -10,7 +10,27 @@
 * <a href = "https://pythonbangla.com/">Python Bangla Tutorial | পাইথন বাংলা টিউটোরিয়াল | Django Bangla</a>
 * <a href = "https://www.banglai-django.com/">সূচিপত্র - বাংলায় জ্যাঙ্গো</a>
 * <a href = "https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE">প্রোগ্রামিং পাতা</a>
+* <a href = "https://hellohasan.com/">Hasaner Rafkhata</a>
 * <a href = ""></a>
-* <a href = ""></a>
+
+
 .....  to be added
 
+<h3>Create a Programming Language & Compiler</h3>
+
+ * <a href = "https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/">freeCodeCamp.org</a>
+ * <a href = "https://www.youtube.com/watch?v=_PlRmlYEHRo&t=312s">CodeEmporium</a>
+ * <a href = ""></a>
+ * <a href = ""></a>
+ 
+ .....  to be added
+ 
+ <h3>Java</h3>
+ 
+   * <a href = "https://fullstackmastery.com/posts/3/building-multiuser-chat-application-java--part-1">BUILDING A MULTI-USER CHAT   APPLICATION IN JAVA – PART 1</a>
+   
+   
+<h3>Web Dev</h3>
+
+  * <a href="https://cse.ninja/courses/flask/?fbclid=IwAR1tu7KERscctqWFRDK9TwP1VDLu3o7UAGnH7eurV3zv0-8SKpxB2T_X8zs">Flask ফ্রেমওয়ার্কে হাতেখড়ি</a>
+  *<a href="https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762">Beginning your Web Development Journey? Start Here</a>
