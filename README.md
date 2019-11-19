@@ -33,4 +33,4 @@
 <h3>Web Dev</h3>
 
   * <a href="https://cse.ninja/courses/flask/?fbclid=IwAR1tu7KERscctqWFRDK9TwP1VDLu3o7UAGnH7eurV3zv0-8SKpxB2T_X8zs">Flask ফ্রেমওয়ার্কে হাতেখড়ি</a>
-  *<a href="https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762">Beginning your Web Development Journey? Start Here</a>
+  * <a href="https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762">Beginning your Web Development Journey? Start Here</a>
